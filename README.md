@@ -15,11 +15,11 @@
 
 * S.O.L.I.D.;
 
-  * [Single Reponsability](examamples/singleResponsability.php);
-  * Open Closed Principle;
-  * Liskov Substitution Principle;
-  * Interface Segregation Principle;
-  * Dependency Inversion Principle;
+  * [Single Reponsability](examples/singleResponsability.php);
+  * [Open Closed Principle](examples/openClosedPrinciple.php);
+  * [Liskov Substitution Principle](examples/liskovSubstitutionPrinciple.php);
+  * [Interface Segregation Principle](examples/interfaceSegregationPrinciple.php);
+  * [Dependency Inversion Principle](examples/dependencyInversionPrinciple.php);
 
 ### Ferramentas Úteis:
 
