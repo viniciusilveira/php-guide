@@ -19,6 +19,7 @@ class DatabaseLogger extends Logger
         //lógica
     }
 }
+
 class FileLogger extends Logger
 {
     public function __construct(FIleManager $fileManager)
