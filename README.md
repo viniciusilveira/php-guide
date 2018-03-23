@@ -12,7 +12,6 @@
 * DRY(Don't repeat yourself);
 * Don't comment bad code, rewrite it;
 * Utilizar uma ferramenta de gerenciamento de dependências;
-
 * S.O.L.I.D.;
 
   * [Single Reponsability](examples/singleResponsability.php);
@@ -20,8 +19,6 @@
   * [Liskov Substitution Principle](examples/liskovSubstitutionPrinciple.php);
   * [Interface Segregation Principle](examples/interfaceSegregationPrinciple.php);
   * [Dependency Inversion Principle](examples/dependencyInversionPrinciple.php);
-
-> [Fonte dos exemplos](https://imasters.com.br/desenvolvimento/solid-com-php/?trace=1519021197&source=single)
 
 ### [PSRs](https://github.com/php-fig/fig-standards)
 
@@ -37,20 +34,24 @@
 
   * [PHP CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer/);
   * [Codeclimate](https://github.com/codeclimate/codeclimate);
+  * [php-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer);
 
-* **Editores de texto (PHP check)**:
+* **Editores de texto (Plugins)**:
+  * [Plugin Atom](https://atom.io/packages/php-cs-fixer);
+  * [Plugin Sublime](http://benmatselby.github.io/sublime-phpcs/);
+  * [Plugin Vim](https://github.com/bpearson/vim-phpcs);
 
+* **Gerenciamento de Dependências**:
 
-#### Gerenciamento de Dependências:
+  * [Composer](https://getcomposer.org/);
 
-* Composer;
-* PEAR;
-
-
-#### Links:
+#### Links Adicionais:
 
 * [phptherightway](http://br.phptherightway.com/);
+* [O que é o composer?](https://blog.especializati.com.br/o-que-e-composer/);
+* [Conceitos sobre SOLID](https://imasters.com.br/desenvolvimento/solid-com-php/?trace=1519021197&source=single);
+* [Package List - Composer](https://packagist.org/);
 
 #### Livros:
 
-* [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350883)
